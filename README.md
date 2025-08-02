@@ -1,4 +1,4 @@
-Fitness Buddy – IBM Summer Intership Project by Edunet
+Fitness Buddy – IBM Summer Intership Project by Edunet by Rudraksh Agarwal
 
 Problem Statement
 Fitness Buddy is a virtual AI-powered assistant that provides personalized workout plans, nutrition tips, and motivational quotes to help users maintain a healthy lifestyle.
