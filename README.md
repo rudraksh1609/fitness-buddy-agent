@@ -30,6 +30,7 @@ You can use this link to view the assistant
 https://shorturl.at/geInl
 
 Screenshots
+
 ![Actions List](docs/ChatBot.png)
 ![Preview Chat](docs/Welcome.png)
 ![Preview Chat](docs/Workout.png)
