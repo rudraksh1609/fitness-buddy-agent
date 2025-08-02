@@ -1,7 +1,20 @@
 Fitness Buddy – IBM Summer Intership Project by Edunet by Rudraksh Agarwal
 
 Problem Statement
-Fitness Buddy is a virtual AI-powered assistant that provides personalized workout plans, nutrition tips, and motivational quotes to help users maintain a healthy lifestyle.
+The challenge - In today’s fast-paced world, many individuals struggle to maintain a healthy lifestyle due 
+to lack of personalized guidance, time constraints, and inconsistent motivation. Traditional fitness 
+solutions often require expensive subscriptions, in-person consultations, or rigid schedules that don't 
+adapt to personal preferences or daily routines. 
+There is a growing need for an accessible, friendly, and intelligent virtual assistant that can provide on
+demand fitness advice, healthy lifestyle suggestions, and basic nutrition guidance—all tailored to 
+individual needs and available at any time. 
+Fitness Buddy aims to solve this problem by offering a conversational, AI-powered health and fitness 
+coach that can:
+Recommend home workouts and routines based on user input. 
+1. Provide motivational tips and daily fitness inspiration. 
+2. Suggest simple, nutritious meal ideas. 
+3. Encourage habit-building and consistency. 
+Technology: Use of IBM cloud lite services /IBM Granity is mandatory.
 
 Features
 **Workout Plans** – Home and gym workout suggestions
